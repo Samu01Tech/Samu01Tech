@@ -1,16 +1,3 @@
-<style>
-.Box-body {
-    box-sizing: border-box;
-    width: 100%;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 # 👋 Hi, I’m Samuele
 
 ## 🌐 My website
