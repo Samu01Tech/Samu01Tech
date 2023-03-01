@@ -1,34 +1,73 @@
-# 👋 Hi, I’m @Samu01Tech
-- 👀 I’m interested in everything related to tecnology
-- 🌱 I’m currently learning web developing skills
+<style>
+.Box-body {
+    box-sizing: border-box;
+    width: 100%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 
-### :computer: My website
-[https://samuelemazzei.me](https://samuelemazzei.me)
+# 👋 Hi, I’m Samuele
 
-### 📫 How to reach me:
-![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=samumaz01@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)
-![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=samu_maz&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)
-![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=samu01tech&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)
+## 🌐 My website
+|<img src="https://api.iconify.design/noto:link.svg" width="20px" alt="telegram" />|<a href="https://samuelemazzei.me" target="_blank">samuelemazzei.me</a>|
+|---|---|
 
-### Things I code with
-##### Prototyping
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+<br>
 
-##### Web
-![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=222222&logo=Bulma&logoColor=00D1B2&label=)
+## 📫 Contact me
 
-##### Programming Languages
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+|<img src="https://api.iconify.design/logos:google-gmail.svg" width="20px" alt="gmail" />|<a href="mailto:samumaz01@gmail.com?subject=Richiesta Informazioni" target="_blank">samumaz01@gmail.com</a>|
+|---|---|
 
-[![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=samu01tech)](https://github.com/anuraghazra/github-readme-stats)
+|<img src="https://api.iconify.design/logos:telegram.svg" width="20px" alt="telegram" />|<a href="https://t.me/samu01tech" target="_blank">Samu01Tech</a>|
+|---|---|
+
+<br>
+
+## ✨ Skills
+
+### Web Development
+
+<div>
+    <img src="https://api.iconify.design/logos:svelte-icon.svg" height="32px" alt="svelte" />
+    <img src="https://api.iconify.design/logos:react.svg" height="32px" alt="react" />
+    <img src="https://api.iconify.design/logos:vue.svg" height="32px" alt="vue" />
+    <img src="https://api.iconify.design/logos:astro.svg" height="32px" alt="astro" />
+    <img src="https://api.iconify.design/logos:typescript-icon.svg" height="32px" alt="typescript" />
+    <img src="https://api.iconify.design/logos:html-5.svg" height="32px" alt="HTML" />
+    <img src="https://api.iconify.design/logos:css-3.svg" height="32px" alt="CSS" />
+</div>
+<br>
+
+### Programming Languages
+
+<div>
+    <img src="https://api.iconify.design/logos:c-plusplus.svg" height="32px" alt="cplusplus" />
+    <img src="https://api.iconify.design/logos:java.svg" height="32px" alt="java" />
+    <img src="https://api.iconify.design/logos:python.svg" height="32px" alt="python" />
+</div>
+<br>
+
+### Misc
+
+<div>
+    <img src="https://api.iconify.design/logos:visual-studio-code.svg" height="32px" alt="vscode" />
+    <img src="https://api.iconify.design/logos:github-icon.svg" height="32px" alt="github" />
+    <img src="https://api.iconify.design/logos:figma.svg" height="32px" alt="figma" />
+    <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" height="32px" alt="tailwindcss" />
+    <img src="https://api.iconify.design/logos:supabase-icon.svg" height="32px" alt="supabase" />
+    <img src="https://api.iconify.design/logos:docker-icon.svg" height="32px" alt="docker" />
+</div>
+<br>
+
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samu01tech)](https://github.com/anuraghazra/github-readme-stats)|[![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=samu01tech)](https://github.com/anuraghazra/github-readme-stats)|
+|---|---|
+
 
 <!---
 Samu01Tech/Samu01Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
