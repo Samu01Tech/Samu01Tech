@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Samuele
 
+[![An image of @samu01tech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samu01tech)](https://holopin.io/@samu01tech)
+
 ## 🌐 My website
 |<img src="https://api.iconify.design/noto:link.svg" width="20px" alt="telegram" />|<a href="https://samuelemazzei.me" target="_blank">samuelemazzei.me</a>|
 |---|---|
